@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Дэлгэц дээр гарах бүх текст. Кодонд stringResource(R.string.xxx) гэж дуудна. -->
+<resources>
+    <string name="app_name">Санхүү</string>
+
+    <!-- Үндсэн дэлгэц -->
+    <string name="home_title">Санхүү</string>
+    <string name="settings">Тохиргоо</string>
+    <string name="income">Орлого</string>
+    <string name="expense">Зарлага</string>
+    <string name="hidden_amount">**** ₮</string>
+    <string name="tap_to_show">Дүн дээр дарж харна уу</string>
+    <string name="long_press_hint">Удаан дарж засна уу</string>
+    <string name="record_position">%1$d / %2$d</string>
+    <string name="no_records">Бүртгэл алга байна</string>
+    <string name="previous">ӨМНӨХ</string>
+    <string name="next">ДАРААХ</string>
+    <string name="add">НЭМЭХ</string>
+    <string name="edit">ЗАСАХ</string>
+    <string name="delete">УСТГАХ</string>
+
+    <!-- Устгах диалог -->
+    <string name="delete_title">Устгах уу?</string>
+    <string name="delete_message">Энэ бүртгэлийг устгах уу?</string>
+    <string name="yes">ТИЙМ</string>
+    <string name="no">ҮГҮЙ</string>
+
+    <!-- Бүртгэл нэмэх / засах дэлгэц -->
+    <string name="add_title">Бүртгэл нэмэх</string>
+    <string name="edit_title">Бүртгэл засах</string>
+    <string name="name_label">Нэр</string>
+    <string name="amount_label">Дүн (₮)</string>
+    <string name="date_label">Огноо (2026.10.23)</string>
+    <string name="save">ХАДГАЛАХ</string>
+    <string name="back">Буцах</string>
+
+    <!-- Тохиргооны дэлгэц -->
+    <string name="filter_all">Орлого, зарлагыг хоёуланг нь харуулах</string>
+    <string name="filter_income">Зөвхөн орлогыг харуулах</string>
+    <string name="filter_expense">Зөвхөн зарлагыг харуулах</string>
+
+    <!-- Мэдэгдэл -->
+    <string name="channel_name">Сануулга</string>
+    <string name="notification_title">Өдрийн мэнд хөөрхөн өө</string>
+    <string name="notification_text">Өнөөдрийн орлого, зарлагаа бүртгэхээ мартуузай!</string>
+</resources>
